@@ -1,0 +1,60 @@
+[admin.py:29] - 2023-08-05 00:17:17,495 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-08-05 00:17:17,495 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-08-05 00:17:17,500 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\user\\OneDrive - SUPCOM\\Bureau\\garb\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-08-05 00:17:17,500 - INFO - Running command 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - '"C:\\Users\\user\\OneDrive - SUPCOM\\Bureau\\garb\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2023-08-05 00:17:19,259 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,337 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,337 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,337 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,338 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-05 00:17:19,339 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1001] - 2023-08-05 00:17:23,891 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:456] - 2023-08-05 00:17:24,206 - DEBUG - https://discord.com:443 "GET /api/webhooks/1137161461093908480/DsmBM3kO_x5NwqUcH-sFKhYA2DR_PqN_o9UUTiWksq23bdN0zM1KFYK9EPI3PS_5HjtB HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-08-05 00:17:32,385 - INFO - Retrieved filename: builder
+[builder.pyw:394] - 2023-08-05 00:17:32,385 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:32,385 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:32,385 - INFO - Changed filetype: File Options
+[builder.pyw:425] - 2023-08-05 00:17:38,585 - INFO - Retrieved filename: builder
+[builder.pyw:394] - 2023-08-05 00:17:38,585 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:38,585 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:38,585 - INFO - Changed filetype: File Options
+[builder.pyw:425] - 2023-08-05 00:17:38,751 - INFO - Retrieved filename: builder
+[builder.pyw:394] - 2023-08-05 00:17:38,751 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:38,751 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:38,752 - INFO - Changed filetype: File Options
+[builder.pyw:425] - 2023-08-05 00:17:38,920 - INFO - Retrieved filename: builder
+[builder.pyw:394] - 2023-08-05 00:17:38,920 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:38,920 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:38,920 - INFO - Changed filetype: File Options
+[connectionpool.py:1001] - 2023-08-05 00:17:41,514 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:456] - 2023-08-05 00:17:41,844 - DEBUG - https://discord.com:443 "GET /api/webhooks/1137161461093908480/DsmBM3kO_x5NwqUcH-sFKhYA2DR_PqN_o9UUTiWksq23bdN0zM1KFYK9EPI3PS_5HjtB HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-08-05 00:17:47,602 - INFO - Retrieved filename: bassa
+[builder.pyw:394] - 2023-08-05 00:17:47,602 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:47,602 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:47,602 - INFO - Changed filetype: File Options
+[builder.pyw:425] - 2023-08-05 00:17:48,723 - INFO - Retrieved filename: bassa
+[builder.pyw:394] - 2023-08-05 00:17:48,723 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:48,723 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-08-05 00:17:48,723 - INFO - Changed filetype: File Options
+[builder.pyw:425] - 2023-08-05 00:17:59,488 - INFO - Retrieved filename: builder
+[builder.pyw:391] - 2023-08-05 00:17:59,489 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-08-05 00:17:59,490 - INFO - Successfully changed config
